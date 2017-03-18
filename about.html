@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>About</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3770934915"/>
-  <link rel="stylesheet" type="text/css" href="css/about.css?crc=4289448325" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=29778193"/>
+  <link rel="stylesheet" type="text/css" href="css/about.css?crc=3858528302" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=33806529"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_about.css?crc=3849837277" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_about.css?crc=313987714" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -64,7 +64,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
-  <div class="breakpoint" id="bp_558" data-min-width="381" data-max-width="558"><!-- responsive breakpoint node -->
+  <div class="breakpoint" id="bp_558" data-min-width="512" data-max-width="558"><!-- responsive breakpoint node -->
    <div class="clearfix gradient borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu382_content"><!-- placeholder node --></span>
     <span class="clearfix grpelem placeholder" data-placeholder-for="u3752-4_content"><!-- placeholder node --></span>
@@ -82,6 +82,18 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </nav>
     <div class="verticalspacer shared_content" data-offset-top="210" data-content-above-spacer="210" data-content-below-spacer="42" data-content-guid="page_4_content"></div>
     <span class="clearfix grpelem placeholder" data-placeholder-for="u3829-4_content"><!-- placeholder node --></span>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_511" data-min-width="381" data-max-width="511"><!-- responsive breakpoint node -->
+   <div class="clearfix gradient borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <span class="clearfix colelem placeholder" data-placeholder-for="pu382_content"><!-- placeholder node --></span>
+    <ul class="AccordionWidget clearfix colelem" id="accordionu10600"><!-- vertical box -->
+     <li class="AccordionPanel borderbox clearfix colelem" id="u10601"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u10602-4"><!-- content --><div id="u10602-3"><p>Menu</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u10603"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu10604"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem" id="u10612"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u10615" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u10616-4"><!-- content --><p>Portfolio</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u10605"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix grpelem" id="u10608" href="about.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u10609-4"><!-- content --><p>About</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u10619"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u10620" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u10621-4"><!-- content --><p>Contact</p></div></a></div></nav></div></li>
+    </ul>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u3749-4_content"><!-- placeholder node --></span>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u3752-4_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="210" data-content-above-spacer="210" data-content-below-spacer="331"></div>
+    <span class="clearfix colelem placeholder" data-placeholder-for="u3829-4_content"><!-- placeholder node --></span>
    </div>
   </div>
   <div class="breakpoint" id="bp_380" data-min-width="321" data-max-width="380"><!-- responsive breakpoint node -->
@@ -122,7 +134,8 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_558', '#bp_380', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_558', '#bp_511', '#bp_380', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#accordionu10600', ['#bp_511'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu10600 */
 Muse.Utils.initWidget('#accordionu2065', ['#bp_380', '#bp_320'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu2065 */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

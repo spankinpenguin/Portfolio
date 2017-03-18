@@ -1,28 +1,28 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LoganPortfolio.html" resolutions="1x" timestamp="1489806598613">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LoganPortfolio.html" resolutions="1x" timestamp="1489813779190">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3770934915" ref="surf-in-style:denver-app:rodney-web:contact:calendar:ancestry:rodney-book:about:denver:index"/>
+    <file name="master_a-master.css" crc="29778193" ref="surf-in-style:denver-app:rodney-web:contact:calendar:ancestry:rodney-book:about:denver:index"/>
     <file name="nomq_preview_master_a-master.css" crc="33806529" ref="surf-in-style:denver-app:rodney-web:contact:calendar:ancestry:rodney-book:about:denver:index"/>
-    <file name="surf-in-style.css" crc="4105630838" ref="surf-in-style"/>
-    <file name="nomq_surf-in-style.css" crc="226358417" ref="surf-in-style"/>
-    <file name="denver-app.css" crc="111743395" ref="denver-app"/>
-    <file name="nomq_denver-app.css" crc="162525044" ref="denver-app"/>
-    <file name="rodney-web.css" crc="219349236" ref="rodney-web"/>
-    <file name="nomq_rodney-web.css" crc="3999423031" ref="rodney-web"/>
-    <file name="contact.css" crc="4152755463" ref="contact"/>
-    <file name="nomq_contact.css" crc="411467454" ref="contact"/>
-    <file name="calendar.css" crc="3978449178" ref="calendar"/>
-    <file name="nomq_calendar.css" crc="134447534" ref="calendar"/>
-    <file name="ancestry.css" crc="93191667" ref="ancestry"/>
-    <file name="nomq_ancestry.css" crc="4024404883" ref="ancestry"/>
-    <file name="rodney-book.css" crc="3890618654" ref="rodney-book"/>
-    <file name="nomq_rodney-book.css" crc="3959279629" ref="rodney-book"/>
-    <file name="about.css" crc="4289448325" ref="about"/>
-    <file name="nomq_about.css" crc="3849837277" ref="about"/>
-    <file name="denver.css" crc="3919902374" ref="denver"/>
-    <file name="nomq_denver.css" crc="3916942424" ref="denver"/>
-    <file name="index.css" crc="472390136" ref="index"/>
-    <file name="nomq_index.css" crc="3987743989" ref="index"/>
+    <file name="surf-in-style.css" crc="3818304510" ref="surf-in-style"/>
+    <file name="nomq_surf-in-style.css" crc="4016799692" ref="surf-in-style"/>
+    <file name="denver-app.css" crc="4199527438" ref="denver-app"/>
+    <file name="nomq_denver-app.css" crc="3840177949" ref="denver-app"/>
+    <file name="rodney-web.css" crc="80470666" ref="rodney-web"/>
+    <file name="nomq_rodney-web.css" crc="4282231866" ref="rodney-web"/>
+    <file name="contact.css" crc="4144353476" ref="contact"/>
+    <file name="nomq_contact.css" crc="394193256" ref="contact"/>
+    <file name="calendar.css" crc="523395638" ref="calendar"/>
+    <file name="nomq_calendar.css" crc="218423999" ref="calendar"/>
+    <file name="ancestry.css" crc="4113197254" ref="ancestry"/>
+    <file name="nomq_ancestry.css" crc="381978905" ref="ancestry"/>
+    <file name="rodney-book.css" crc="291414896" ref="rodney-book"/>
+    <file name="nomq_rodney-book.css" crc="3809539495" ref="rodney-book"/>
+    <file name="about.css" crc="3858528302" ref="about"/>
+    <file name="nomq_about.css" crc="313987714" ref="about"/>
+    <file name="denver.css" crc="4060200394" ref="denver"/>
+    <file name="nomq_denver.css" crc="141177443" ref="denver"/>
+    <file name="index.css" crc="363428245" ref="index"/>
+    <file name="nomq_index.css" crc="415818361" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:denver:ancestry:denver-app:calendar:rodney-book:surf-in-style:rodney-web"/>
@@ -47,6 +47,9 @@
       <caption webpage="denver" alt=""/>
       <caption webpage="denver" alt=""/>
       <caption webpage="denver" alt=""/>
+      <caption webpage="denver" alt=""/>
+      <caption webpage="denver" alt=""/>
+      <caption webpage="surf-in-style" alt=""/>
       <caption webpage="surf-in-style" alt=""/>
       <caption webpage="surf-in-style" alt=""/>
       <caption webpage="surf-in-style" alt=""/>
@@ -55,15 +58,21 @@
       <caption webpage="denver-app" alt=""/>
       <caption webpage="denver-app" alt=""/>
       <caption webpage="denver-app" alt=""/>
+      <caption webpage="denver-app" alt=""/>
       <caption webpage="ancestry" alt=""/>
       <caption webpage="ancestry" alt=""/>
       <caption webpage="ancestry" alt=""/>
       <caption webpage="ancestry" alt=""/>
+      <caption webpage="ancestry" alt=""/>
+      <caption webpage="ancestry" alt=""/>
       <caption webpage="rodney-book" alt=""/>
       <caption webpage="rodney-book" alt=""/>
       <caption webpage="rodney-book" alt=""/>
       <caption webpage="rodney-book" alt=""/>
       <caption webpage="rodney-book" alt=""/>
+      <caption webpage="rodney-book" alt=""/>
+      <caption webpage="rodney-book" alt=""/>
+      <caption webpage="rodney-web" alt=""/>
       <caption webpage="rodney-web" alt=""/>
       <caption webpage="rodney-web" alt=""/>
       <caption webpage="rodney-web" alt=""/>
@@ -74,6 +83,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -82,6 +94,9 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
       <caption webpage="calendar" alt=""/>
       <caption webpage="calendar" alt=""/>
       <caption webpage="calendar" alt=""/>
@@ -114,67 +129,105 @@
     <file name="screen shot 2017-02-21 at 22052 pm.jpg" crc="3950336442" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hanging wall sign mockup 5-crop-u23132.jpg" crc="183618322" seo="true" ref="index">
+    <file name="hanging wall sign mockup 5-crop-u23132.jpg" crc="4023079997" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="allcalendarmockup-crop-u23052.jpg" crc="343802844" seo="true" ref="index">
+    <file name="allcalendarmockup-crop-u23052.jpg" crc="3911600177" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iphone_6_plus_perspective-gold233x175.jpg" crc="86025942" seo="true" ref="index">
+    <file name="iphone_6_plus_perspective-gold221x166.jpg" crc="4017380556" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imac-cinema-monitor-style-mock-up230x153.jpg" crc="3767649907" seo="true" ref="index">
+    <file name="imac-cinema-monitor-style-mock-up221x147.jpg" crc="27628159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frontandtablecontents312x208.jpg" crc="319003175" seo="true" ref="index">
+    <file name="frontandtablecontents304x203.jpg" crc="3982606456" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rodcover-crop-u23342.jpg" crc="3918663198" seo="true" ref="index">
+    <file name="rodcover-crop-u23342.jpg" crc="4273764885" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2017-02-21 at 22052 pm307x172.jpg" crc="302124925" seo="true" ref="index">
+    <file name="screen shot 2017-02-21 at 22052 pm297x167.jpg" crc="512224171" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hanging wall sign mockup 5-crop-u23133.jpg" crc="3798720968" seo="true" ref="index">
+    <file name="frontandtablecontents278x185.jpg" crc="213387664" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="allcalendarmockup-crop-u23053.jpg" crc="4188236043" seo="true" ref="index">
+    <file name="allcalendarmockup-crop-u23053.jpg" crc="268478796" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iphone_6_plus_perspective-gold159x119.jpg" crc="4146288960" seo="true" ref="index">
+    <file name="hanging wall sign mockup 5-crop-u23133.jpg" crc="120069516" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imac-cinema-monitor-style-mock-up157x105.jpg" crc="433100418" seo="true" ref="index">
+    <file name="imac-cinema-monitor-style-mock-up202x135.jpg" crc="3844864385" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frontandtablecontents213x142.jpg" crc="107041493" seo="true" ref="index">
+    <file name="iphone_6_plus_perspective-gold202x152.jpg" crc="4242880340" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rodcover-crop-u23343.jpg" crc="4102940463" seo="true" ref="index">
+    <file name="rodcover-crop-u23343.jpg" crc="4263478259" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2017-02-21 at 22052 pm209x118.jpg" crc="223629911" seo="true" ref="index">
+    <file name="screen shot 2017-02-21 at 22052 pm272x153.jpg" crc="3910667308" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hanging wall sign mockup 5-crop-u23134.jpg" crc="4189066028" seo="true" ref="index">
+    <file name="frontandtablecontents200x134.jpg" crc="4134831450" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="allcalendarmockup-crop-u23054.jpg" crc="4219536156" seo="true" ref="index">
+    <file name="allcalendarmockup-crop-u23054.jpg" crc="227566478" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="iphone_6_plus_perspective-gold134x101.jpg" crc="270675713" seo="true" ref="index">
+    <file name="hanging wall sign mockup 5-crop-u23134.jpg" crc="216534634" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imac-cinema-monitor-style-mock-up132x88.jpg" crc="453205272" seo="true" ref="index">
+    <file name="imac-cinema-monitor-style-mock-up146x97.jpg" crc="4102968406" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="frontandtablecontents179x120.jpg" crc="134462918" seo="true" ref="index">
+    <file name="iphone_6_plus_perspective-gold145x109.jpg" crc="202118461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rodcover-crop-u23344.jpg" crc="4002261200" seo="true" ref="index">
+    <file name="rodcover-crop-u23344.jpg" crc="3986592558" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2017-02-21 at 22052 pm176x99.jpg" crc="459886639" seo="true" ref="index">
+    <file name="screen shot 2017-02-21 at 22052 pm196x110.jpg" crc="94188820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hanging wall sign mockup 5-crop-u23135.jpg" crc="9843118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="allcalendarmockup-crop-u23055.jpg" crc="379793232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imac-cinema-monitor-style-mock-up145x97.jpg" crc="186730645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frontandtablecontents200x133.jpg" crc="3784278862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rodcover-crop-u23345.jpg" crc="4033669280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frontandtablecontents166x111.jpg" crc="4073022493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="allcalendarmockup-crop-u23056.jpg" crc="4246359270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hanging wall sign mockup 5-crop-u23136.jpg" crc="334854158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imac-cinema-monitor-style-mock-up118x79.jpg" crc="102112575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iphone_6_plus_perspective-gold119x89.jpg" crc="52320017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rodcover-crop-u23346.jpg" crc="4270894887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-02-21 at 22052 pm163x92.jpg" crc="148760837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="shoppingbag.jpg" crc="452760094" seo="true" ref="denver">
@@ -198,46 +251,89 @@
     <file name="sweatshirt mock up.jpg" crc="3945209426" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="shoppingbag305x276.jpg" crc="4099417853" seo="true" ref="denver">
+    <file name="shoppingbag320x289.jpg" crc="471336114" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="stationery305x183.jpg" crc="3954091033" seo="true" ref="denver">
+    <file name="stationery320x192.jpg" crc="10767931" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="jeans mock up305x203.jpg" crc="74021039" seo="true" ref="denver">
+    <file name="jeans mock up320x213.jpg" crc="161082171" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="hanging wall sign mockup 5-crop-u65632.jpg" crc="343097450" seo="true" ref="denver">
+    <file name="hanging wall sign mockup 5-crop-u65632.jpg" crc="338694441" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="t-shirt tag_mockup233x187.jpg" crc="4022302026" seo="true" ref="denver">
+    <file name="t-shirt tag_mockup242x194.jpg" crc="72260431" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="t-shirt box packaging mockup free psd232x156.jpg" crc="69559059" seo="true" ref="denver">
+    <file name="t-shirt box packaging mockup free psd241x163.jpg" crc="503892163" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="sweatshirt mock up232x154.jpg" crc="246796948" seo="true" ref="denver">
+    <file name="sweatshirt mock up241x161.jpg" crc="430730311" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="shoppingbag208x188.jpg" crc="3800699989" seo="true" ref="denver">
+    <file name="shoppingbag297x269.jpg" crc="3848371916" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="stationery208x125.jpg" crc="3971766460" seo="true" ref="denver">
+    <file name="stationery298x179.jpg" crc="3898463259" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="jeans mock up208x138.jpg" crc="389919478" seo="true" ref="denver">
+    <file name="jeans mock up298x198.jpg" crc="3797810744" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="hanging wall sign mockup 5-crop-u65633.jpg" crc="45402291" seo="true" ref="denver">
+    <file name="hanging wall sign mockup 5-crop-u65633.jpg" crc="4293344600" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="t-shirt tag_mockup159x127.jpg" crc="391719279" seo="true" ref="denver">
+    <file name="t-shirt tag_mockup225x180.jpg" crc="3812130546" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="t-shirt box packaging mockup free psd158x107.jpg" crc="411495406" seo="true" ref="denver">
+    <file name="t-shirt box packaging mockup free psd225x152.jpg" crc="191165433" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="sweatshirt mock up158x105.jpg" crc="216356842" seo="true" ref="denver">
+    <file name="sweatshirt mock up225x149.jpg" crc="3984388692" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="shoppingbag272x247.jpg" crc="4226214852" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="stationery270x162.jpg" crc="3778585454" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="jeans mock up270x180.jpg" crc="490272522" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="hanging wall sign mockup 5-crop-u65634.jpg" crc="4211036376" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="t-shirt tag_mockup202x162.jpg" crc="428182280" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="t-shirt box packaging mockup free psd202x137.jpg" crc="185531564" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="sweatshirt mock up206x137.jpg" crc="372332318" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="shoppingbag203x184.jpg" crc="3988828397" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="stationery201x120.jpg" crc="3858065483" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="jeans mock up201x134.jpg" crc="115965169" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="hanging wall sign mockup 5-crop-u65635.jpg" crc="414438756" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="t-shirt tag_mockup151x121.jpg" crc="187307347" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="t-shirt box packaging mockup free psd151x102.jpg" crc="29274719" seo="true" ref="denver">
+      <caption webpage="denver" alt=""/>
+    </file>
+    <file name="sweatshirt mock up153x102.jpg" crc="250081296" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
     <file name="shoppingbag175x159.jpg" crc="504538247" seo="true" ref="denver">
@@ -246,13 +342,10 @@
     <file name="t-shirt tag_mockup-crop-u6603.jpg" crc="4175216534" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="stationery320x192.jpg" crc="3922827936" seo="true" ref="denver">
-      <caption webpage="denver" alt=""/>
-    </file>
     <file name="jeans mock up175x116.jpg" crc="4037132639" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
-    <file name="hanging wall sign mockup 5-crop-u65634.jpg" crc="495310676" seo="true" ref="denver">
+    <file name="hanging wall sign mockup 5-crop-u65636.jpg" crc="495310676" seo="true" ref="denver">
       <caption webpage="denver" alt=""/>
     </file>
     <file name="t-shirt box packaging mockup free psd146x99.jpg" crc="3935573696" seo="true" ref="denver">
@@ -291,6 +384,21 @@
     <file name="purchase screen235x235.jpg" crc="117388285" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
+    <file name="iphone_6_plus_perspective-gold311x234.jpg" crc="486367243" seo="true" ref="denver-app">
+      <caption webpage="denver-app" alt=""/>
+    </file>
+    <file name="menphone215x215.jpg" crc="3773395122" seo="true" ref="denver-app">
+      <caption webpage="denver-app" alt=""/>
+    </file>
+    <file name="winterphone215x215.jpg" crc="3867142493" seo="true" ref="denver-app">
+      <caption webpage="denver-app" alt=""/>
+    </file>
+    <file name="loadingscreen214x214.jpg" crc="4105428205" seo="true" ref="denver-app">
+      <caption webpage="denver-app" alt=""/>
+    </file>
+    <file name="purchase screen215x215.jpg" crc="4004503361" seo="true" ref="denver-app">
+      <caption webpage="denver-app" alt=""/>
+    </file>
     <file name="iphone_6_plus_perspective-gold232x174.jpg" crc="413781834" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
@@ -306,19 +414,19 @@
     <file name="purchase screen160x160.jpg" crc="4062610899" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
-    <file name="iphone_6_plus_perspective-gold195x146.jpg" crc="162277767" seo="true" ref="denver-app">
+    <file name="iphone_6_plus_perspective-gold280x211.jpg" crc="387266276" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
-    <file name="menphone135x135.jpg" crc="18453154" seo="true" ref="denver-app">
+    <file name="menphone280x280.jpg" crc="211309708" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
-    <file name="winterphone135x135.jpg" crc="3836377562" seo="true" ref="denver-app">
+    <file name="loadingscreen280x280.jpg" crc="4000460083" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
-    <file name="loadingscreen134x134.jpg" crc="292330078" seo="true" ref="denver-app">
+    <file name="purchase screen279x279.jpg" crc="4273213231" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
-    <file name="purchase screen135x135.jpg" crc="3897102119" seo="true" ref="denver-app">
+    <file name="winterphone280x281.jpg" crc="145685823" seo="true" ref="denver-app">
       <caption webpage="denver-app" alt=""/>
     </file>
     <file name="feb.jpg" crc="414397124" seo="true" ref="calendar">
@@ -357,6 +465,32 @@
     <file name="november304x225.jpg" crc="218648662" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
+    <file name="feb279x207.jpg" crc="4127939663" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="may278x206.jpg" crc="33885423" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="allcalendarmockup278x206.jpg" crc="26818456" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="november278x206.jpg" crc="3881525157" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="feb249x185.jpg" crc="168246746" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="may249x184.jpg" crc="3970799811" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="allcalendarmockup249x185.jpg" crc="161172868" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+    </file>
+    <file name="november249x185.jpg" crc="4182606628" seo="true" ref="calendar">
+      <caption webpage="calendar" alt=""/>
+    </file>
     <file name="feb208x154.jpg" crc="4267129259" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
@@ -381,28 +515,22 @@
     <file name="november207x154.jpg" crc="4121123960" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="feb178x132.jpg" crc="35509512" seo="true" ref="calendar">
+    <file name="feb283x210.jpg" crc="4083747520" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="may177x131.jpg" crc="4065051992" seo="true" ref="calendar">
+    <file name="may283x210.jpg" crc="4146394110" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="allcalendarmockup177x131.jpg" crc="4287370408" seo="true" ref="calendar">
+    <file name="allcalendarmockup283x209.jpg" crc="57914354" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="november177x131.jpg" crc="18479800" seo="true" ref="calendar">
+    <file name="november285x211.jpg" crc="508200292" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="feb175x130.jpg" crc="4226486260" seo="true" ref="calendar">
+    <file name="feb278x206.jpg" crc="4127939663" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
-    <file name="may174x129.jpg" crc="4207891055" seo="true" ref="calendar">
-      <caption webpage="calendar" alt=""/>
-    </file>
-    <file name="allcalendarmockup175x129.jpg" crc="3779455100" seo="true" ref="calendar">
-      <caption webpage="calendar" alt=""/>
-    </file>
-    <file name="november175x129.jpg" crc="3952759152" seo="true" ref="calendar">
+    <file name="november281x208.jpg" crc="24509172" seo="true" ref="calendar">
       <caption webpage="calendar" alt=""/>
     </file>
     <file name="rodcover583x438.jpg" crc="3987894686" seo="true" ref="rodney-book">
@@ -410,17 +538,18 @@
     </file>
     <file name="rodneypage.jpg" crc="199674976" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
+      <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread.jpg" crc="4177047024" seo="true" ref="rodney-book">
+    <file name="spread.jpg" crc="3862575543" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="facespread.jpg" crc="4227520024" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
-    </file>
-    <file name="spread2.jpg" crc="3862575543" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="teachspread.jpg" crc="4233682618" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="rodcover318x238.jpg" crc="4042413288" seo="true" ref="rodney-book">
@@ -429,34 +558,46 @@
     <file name="rodneypage253x190.jpg" crc="350955527" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread253x190.jpg" crc="3997994381" seo="true" ref="rodney-book">
-      <caption webpage="rodney-book" alt=""/>
-    </file>
     <file name="facespread253x190.jpg" crc="177296139" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread253x1902.jpg" crc="352758237" seo="true" ref="rodney-book">
+    <file name="spread253x190.jpg" crc="352758237" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="teachspread253x190.jpg" crc="4219305106" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="rodcover216x162.jpg" crc="4002052879" seo="true" ref="rodney-book">
+    <file name="rodcover291x218.jpg" crc="4000227770" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="rodneypage173x130.jpg" crc="4236845622" seo="true" ref="rodney-book">
+    <file name="rodneypage232x174.jpg" crc="29921614" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread173x130.jpg" crc="3956220982" seo="true" ref="rodney-book">
+    <file name="facespread232x174.jpg" crc="202405798" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="facespread173x130.jpg" crc="4182652795" seo="true" ref="rodney-book">
+    <file name="spread232x174.jpg" crc="213800217" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread173x1302.jpg" crc="465928593" seo="true" ref="rodney-book">
+    <file name="teachspread232x174.jpg" crc="201832553" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="teachspread173x130.jpg" crc="67040482" seo="true" ref="rodney-book">
+    <file name="rodcover386x289.jpg" crc="3796940843" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
+    </file>
+    <file name="rodcover344x258.jpg" crc="3786905915" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
+    </file>
+    <file name="rodneypage344x258.jpg" crc="3969201688" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
+    </file>
+    <file name="teachspread347x260.jpg" crc="3954260147" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
+    </file>
+    <file name="spread347x260.jpg" crc="504782858" seo="true" ref="rodney-book">
+      <caption webpage="rodney-book" alt=""/>
+    </file>
+    <file name="facespread344x258.jpg" crc="125513451" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="rodcover214x161.jpg" crc="4041302005" seo="true" ref="rodney-book">
@@ -465,13 +606,10 @@
     <file name="rodneypage171x128.jpg" crc="55764921" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread171x128.jpg" crc="4283857227" seo="true" ref="rodney-book">
-      <caption webpage="rodney-book" alt=""/>
-    </file>
     <file name="facespread171x128.jpg" crc="3822594774" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread171x1282.jpg" crc="3789911537" seo="true" ref="rodney-book">
+    <file name="spread171x128.jpg" crc="3789911537" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="teachspread171x128.jpg" crc="4266948592" seo="true" ref="rodney-book">
@@ -483,16 +621,13 @@
     <file name="rodneypage280x210.jpg" crc="3903458528" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread280x211.jpg" crc="3947616025" seo="true" ref="rodney-book">
-      <caption webpage="rodney-book" alt=""/>
-    </file>
     <file name="facespread280x210.jpg" crc="31519825" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="spread276x208.jpg" crc="302106992" seo="true" ref="rodney-book">
+    <file name="spread280x211.jpg" crc="4266637830" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
-    <file name="teachspread278x209.jpg" crc="462727612" seo="true" ref="rodney-book">
+    <file name="teachspread281x211.jpg" crc="336940458" seo="true" ref="rodney-book">
       <caption webpage="rodney-book" alt=""/>
     </file>
     <file name="frontplain.jpg" crc="346554024" seo="true" ref="surf-in-style">
@@ -526,6 +661,24 @@
       <caption webpage="surf-in-style" alt=""/>
     </file>
     <file name="championspread261x174.jpg" crc="4293118697" seo="true" ref="surf-in-style">
+      <caption webpage="surf-in-style" alt=""/>
+    </file>
+    <file name="frontandtablecontents290x193.jpg" crc="205486462" seo="true" ref="surf-in-style">
+      <caption webpage="surf-in-style" alt=""/>
+    </file>
+    <file name="frontplain239x159.jpg" crc="4191051541" seo="true" ref="surf-in-style">
+      <caption webpage="surf-in-style" alt=""/>
+    </file>
+    <file name="tablecontents239x159.jpg" crc="4175221575" seo="true" ref="surf-in-style">
+      <caption webpage="surf-in-style" alt=""/>
+    </file>
+    <file name="shanespread211x141.jpg" crc="4259749650" seo="true" ref="surf-in-style">
+      <caption webpage="surf-in-style" alt=""/>
+    </file>
+    <file name="4239x160.jpg" crc="62336867" seo="true" ref="surf-in-style">
+      <caption webpage="surf-in-style" alt=""/>
+    </file>
+    <file name="championspread239x159.jpg" crc="15059882" seo="true" ref="surf-in-style">
       <caption webpage="surf-in-style" alt=""/>
     </file>
     <file name="frontandtablecontents216x144.jpg" crc="4209675831" seo="true" ref="surf-in-style">
@@ -574,6 +727,7 @@
       <caption webpage="rodney-web" alt=""/>
       <caption webpage="rodney-web" alt=""/>
       <caption webpage="rodney-web" alt=""/>
+      <caption webpage="rodney-web" alt=""/>
     </file>
     <file name="imac-cinema-monitor-style-mock-up320x213.jpg" crc="4237327354" seo="true" ref="rodney-web">
       <caption webpage="rodney-web" alt=""/>
@@ -581,15 +735,18 @@
     <file name="imac-cinema-monitor-style-mock-up318x212.jpg" crc="55929136" seo="true" ref="rodney-web">
       <caption webpage="rodney-web" alt=""/>
     </file>
+    <file name="imac-cinema-monitor-style-mock-up291x194.jpg" crc="232788942" seo="true" ref="rodney-web">
+      <caption webpage="rodney-web" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="419245126" seo="true" mt="1489621125102" redirect="true"/>
-  <file name="about.html" crc="389359323" seo="true" mt="1489622180245" redirect="true"/>
-  <file name="contact.html" crc="421717803" seo="true" mt="1489620024003" redirect="true"/>
-  <file name="denver.html" crc="3847376532" seo="true" mt="1489623483011" redirect="true"/>
-  <file name="ancestry.html" crc="231761956" seo="true" mt="1489622126558" redirect="true"/>
-  <file name="denver-app.html" crc="459781385" seo="true" mt="1489700886293" redirect="true"/>
-  <file name="calendar.html" crc="4094149322" seo="true" mt="1489701572795" redirect="true"/>
-  <file name="rodney-book.html" crc="4180387072" seo="true" mt="1489702401480" redirect="true"/>
-  <file name="surf-in-style.html" crc="81901750" seo="true" mt="1489704148261" redirect="true"/>
-  <file name="rodney-web.html" crc="3991894950" seo="true" mt="1489704235312" redirect="true"/>
+  <file name="index.html" crc="5820652" seo="true" mt="1489808860242" redirect="true"/>
+  <file name="about.html" crc="4046042986" seo="true" mt="1489808059495" redirect="true"/>
+  <file name="contact.html" crc="64374993" seo="true" mt="1489808059495" redirect="true"/>
+  <file name="denver.html" crc="2789825" seo="true" mt="1489811973949" redirect="true"/>
+  <file name="ancestry.html" crc="345671872" seo="true" mt="1489812200688" redirect="true"/>
+  <file name="denver-app.html" crc="457717227" seo="true" mt="1489812431015" redirect="true"/>
+  <file name="calendar.html" crc="182799291" seo="true" mt="1489812698699" redirect="true"/>
+  <file name="rodney-book.html" crc="521784036" seo="true" mt="1489813259380" redirect="true"/>
+  <file name="surf-in-style.html" crc="152971564" seo="true" mt="1489813341104" redirect="true"/>
+  <file name="rodney-web.html" crc="3824485826" seo="true" mt="1489813392309" redirect="true"/>
 </manifest>
